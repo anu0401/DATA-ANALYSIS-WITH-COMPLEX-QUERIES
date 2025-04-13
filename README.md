@@ -55,3 +55,10 @@ Key Insights and Business Impact
 
 Conclusion
 By implementing window functions, subqueries, and CTEs, we extracted actionable business insights that can help companies make informed decisions. These SQL techniques provide a deeper understanding of customer behavior, sales performance, and revenue trends, enabling data-driven strategies for growth and efficiency. 
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/ffa06823-2541-4e66-b3ec-db50df045ed4)
+
+![Image](https://github.com/user-attachments/assets/cb0a7b4d-edb9-4692-8546-923396d37522)
+
+![Image](https://github.com/user-attachments/assets/cbf06085-b4d2-4f05-913c-4c247055cb3a)
